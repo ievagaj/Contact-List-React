@@ -8,7 +8,8 @@
 }
 
 .ui.button.blue.center{
-  margin-left: 43%;
+  margin: auto;
+  display: block;
 }
 
 .right{
@@ -21,7 +22,7 @@
 }
 
 .item {
-  padding: 15 px 0 px !important;
+  padding: 15px 0px !important;
 }
 
 i.icon {
